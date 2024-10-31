@@ -1,0 +1,51 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+img{
+    width: 250px;
+    padding-right: 20px;
+}
+
+.butao{
+    background-color: blue;
+    border-color: blue;
+    font-size: medium;
+    color: white;
+    width: 140px;
+    height: 60px;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fileira{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 15px;
+}
+
+.fileira2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    padding: 15px;
+}
+
+.butaoNovo{
+    background-color:  rgb(124, 30, 171);
+    border-color: rgb(124, 30, 171);
+    font-size: medium;
+    color: white;
+    width: 140px;
+    height: 60px;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
